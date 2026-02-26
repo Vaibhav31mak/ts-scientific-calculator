@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "none",
+    "strict": false,
+    "outDir": "./dist",
+    "rootDir": ".",
+    "lib": ["ES2017", "DOM"],
+    "sourceMap": false
+  },
+  "include": ["script.ts"]
+}
